@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg id='root'
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1000" height="570"
+     viewBox="-75 -540 1000 570" >
+
+<defs>
+
+<style type="text/css">
+<![CDATA[
+
+.utmgrid   {stroke: black; stroke-width: 0.5; fill: none;}
+.achse {stroke-width: 2; stroke: black; fill: none;}
+.linie {stroke-width: 4; stroke: black; fill: none;}
+.pfeil {stroke-width: 0; fill: green;}
+.unused {stroke-width: 0; fill: #eee;}
+.insel {stroke-width: 4; stroke: #aae; fill: #cfd;}
+.vector {stroke-width: 2; stroke: red; fill: none;}
+.blank { font-size: 50; fill: white; }
+.titel {font-size: 16;}
+.meter {font-size: 8;}
+]]>
+</style>
+
+<path id="pqx" class="utmgrid" d="M 4 0 h -8 M 0 4 v -8"/>
+<path id="spitze" class="pfeil" d="M 0 0 l 12 6 0 -12 z"/>
+
+<path id="TP" d="M 0 0 v 10 l 8.6 -15 h -17 l 8.6 15 0 0"
+      style="stroke: black; fill:none; stroke-width: 2; "/>
+<path id="Richtung" d="M 0 10 l 8.6 -15 h -17 l 8.6 15 0 0"
+      style="stroke: black; fill:white; stroke-width: 2; "/>
+</defs>
+
+
+<g transform="scale(0.8,-0.8)">
+<path class="unused" d="M 0 0 v 520 h 100 v -520z"/>
+<path class="unused" d="M 900 0 v 520 h 100 v -520z"/>
+
+<path class="insel" d="M 212 178 C 135 80 207 66  345 111 
+                                   562  8 623 167 762 252
+                                 L 764 269
+                                 C 487  276 844 407 782 483
+                                   612 388 456 555 368 333                                   
+z"/> 
+
+<path class="achse" style="stroke: lightblue; " d="M 310 -15 L 350 520"/>
+<path class="achse" style="stroke: lightblue; " d="M 690 -15 L 650 520"/>
+<path class="achse" style="stroke: lightblue; " d="M 120 -15 L 200 520"/>
+<path class="achse" style="stroke: lightblue; " d="M 880 -15 L 800 520"/>
+
+<path id="achsen" class="achse" d="M 1050 0 h -1050 v 600"/>
+<use xlink:href="#pqx" x="0" y="100"/>
+<use xlink:href="#pqx" x="0" y="200"/>
+<use xlink:href="#pqx" x="0" y="300"/>
+<use xlink:href="#pqx" x="0" y="400"/>
+<use xlink:href="#pqx" x="0" y="500"/>
+
+<use xlink:href="#pqx" x="100" y="100"/>
+<use xlink:href="#pqx" x="100" y="200"/>
+<use xlink:href="#pqx" x="100" y="300"/>
+<use xlink:href="#pqx" x="100" y="400"/>
+<use xlink:href="#pqx" x="100" y="500"/>
+<use xlink:href="#pqx" x="200" y="100"/>
+<use xlink:href="#pqx" x="200" y="200"/>
+<use xlink:href="#pqx" x="200" y="300"/>
+<use xlink:href="#pqx" x="200" y="400"/>
+<use xlink:href="#pqx" x="200" y="500"/>
+<use xlink:href="#pqx" x="300" y="100"/>
+<use xlink:href="#pqx" x="300" y="200"/>
+<use xlink:href="#pqx" x="300" y="300"/>
+<use xlink:href="#pqx" x="300" y="400"/>
+<use xlink:href="#pqx" x="300" y="500"/>
+<use xlink:href="#pqx" x="400" y="100"/>
+<use xlink:href="#pqx" x="400" y="200"/>
+<use xlink:href="#pqx" x="400" y="300"/>
+<use xlink:href="#pqx" x="400" y="400"/>
+<use xlink:href="#pqx" x="400" y="500"/>
+<use xlink:href="#pqx" x="500" y="100"/>
+<use xlink:href="#pqx" x="500" y="200"/>
+<use xlink:href="#pqx" x="500" y="300"/>
+<use xlink:href="#pqx" x="500" y="400"/>
+<use xlink:href="#pqx" x="500" y="500"/>
+<use xlink:href="#pqx" x="600" y="100"/>
+<use xlink:href="#pqx" x="600" y="200"/>
+<use xlink:href="#pqx" x="600" y="300"/>
+<use xlink:href="#pqx" x="600" y="400"/>
+<use xlink:href="#pqx" x="600" y="500"/>
+<use xlink:href="#pqx" x="700" y="100"/>
+<use xlink:href="#pqx" x="700" y="200"/>
+<use xlink:href="#pqx" x="700" y="300"/>
+<use xlink:href="#pqx" x="700" y="400"/>
+<use xlink:href="#pqx" x="700" y="500"/>
+<use xlink:href="#pqx" x="800" y="100"/>
+<use xlink:href="#pqx" x="800" y="200"/>
+<use xlink:href="#pqx" x="800" y="300"/>
+<use xlink:href="#pqx" x="800" y="400"/>
+<use xlink:href="#pqx" x="800" y="500"/>
+<use xlink:href="#pqx" x="900" y="100"/>
+<use xlink:href="#pqx" x="900" y="200"/>
+<use xlink:href="#pqx" x="900" y="300"/>
+<use xlink:href="#pqx" x="900" y="400"/>
+<use xlink:href="#pqx" x="900" y="500"/>
+
+<use xlink:href="#pqx" x="100" y="0"/>
+<use xlink:href="#pqx" x="200" y="0"/>
+<use xlink:href="#pqx" x="300" y="0"/>
+<use xlink:href="#pqx" x="400" y="0"/>
+<use xlink:href="#pqx" x="500" y="0"/>
+<use xlink:href="#pqx" x="600" y="0"/>
+<use xlink:href="#pqx" x="700" y="0"/>
+<use xlink:href="#pqx" x="800" y="0"/>
+<use xlink:href="#pqx" x="900" y="0"/>
+
+<use xlink:href="#spitze" x="0" y="300"/>
+<path id="MittelMeridian" class="achse" style="stroke: blue;" d="M 500 -30 v 560"/>
+<circle style="stroke-width: 2; stroke: black; fill: white;" cx="0" cy="0" r="10"/>
+<path id="FalseEasting" class="linie" style="stroke: green;" d="M 500 300 h-495"/>
+<path id="FalseNorthing" class="linie" style="stroke: green;" d="M 0 300 v-290"/>
+<g transform="rotate(90)">
+<use xlink:href="#spitze" x="0" y="0"/>
+</g>
+<use xlink:href="#TP" id="Fundamental" x="500" y="300"/>
+<use id="nach" xlink:href="#Richtung" x="0" y="600"/>
+<g transform="rotate(-90) translate(0,450)">
+<use xlink:href="#nach" x="0" y="0"/>
+</g>
+
+<use xlink:href="#TP" x="782" y="483"/>
+<circle class="vector" cx="0" cy="483" r="5"/>
+<path class="vector" d="M 5 483 H 772 l -5 -5 15 5 -15 5 5 -5"/> 
+<circle class="vector" cx="782" cy="0" r="5"/>
+<path class="vector" d="M 782 5 V 473 l -5 -5 5 15 5 -15 -5 5"/> 
+
+</g>
+<text class="blank" x="40" y="60" transform="rotate(-90)">u n b e n u t z t</text>
+
+<text class="leg" style="fill: red;"
+                    x="180" y="-390">Easting / Rechtswert</text>
+<text class="leg" style="fill: red;"
+                    x="630" y="-185">Northing / Hochwert</text>
+<text class="titel" style="fill: blue;"
+                    x="360" y="-440">Längen-Null</text>
+<text class="leg" style="fill: green;"
+                    x="180" y="-225">False Easting</text>
+<text class="leg" style="fill: green;"
+                    x="5" y="-195">False Northing</text>
+<text class="titel" x="410" y="-240">Fundamentalpunkt</text>
+<text class="titel" x="20" y="-10">Koordinaten-Ursprung</text>
+<text class="titel" x="160" y="-500"
+                    style="font-size: 24;">Geografisches kartesisches Koordinatensystem</text>
+<text class="meter" x="80" y="10">100.000</text>
+<text class="meter" x="160" y="10">200.000</text>
+<text class="meter" x="240" y="10">300.000</text>
+<text class="meter" x="320" y="10">400.000</text>
+<text class="meter" x="400" y="10">500.000</text>
+<text class="meter" x="480" y="10">600.000</text>
+<text class="meter" x="560" y="10">700.000</text>
+<text class="meter" x="640" y="10">800.000</text>
+
+<text class="meter" x="-35" y="-80">100.000</text>
+<text class="meter" x="-35" y="-160">200.000</text>
+<text class="meter" x="-35" y="-240">300.000</text>
+<text class="meter" x="-35" y="-320">400.000</text>
+<text class="meter" x="-35" y="-400">500.000</text>
+
+</svg>
