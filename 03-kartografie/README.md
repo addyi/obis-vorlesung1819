@@ -70,8 +70,16 @@ World map in Mercator style projection
 - flächentreue (äquivalente) Abbildung
 - winkeltreue (konforme) Abbildung
 
-**Good to know**: [Tissotsche Indikatrix
-](https://de.wikipedia.org/wiki/Tissotsche_Indikatrix)
+#### [Tissotsche Indikatrix](https://de.wikipedia.org/wiki/Tissotsche_Indikatrix)
+
+> Als tissotsche Indikatrix bezeichnet man Verzerrungsellipsen, mit deren Hilfe Kartennetzentwürfe auf ihre Verzerrungseigenschaften hin überprüft werden können.
+> - Bei *winkeltreuen* Entwürfen sind alle Verzerrungsellipsen *Kreise*.
+> - Bei *flächentreuen* Entwürfen haben alle Verzerrungsellipsen die *gleiche Flächengröße*.
+> - Bei *längentreuen* Entwürfen haben die Verzerrungsellipsen in Richtung der Längentreue *gleich große Radien*. Meist sind Karten nur entlang der Breitenkreise oder Meridiane längentreu.
+
+<img alt="Tissotsche Indikatrix auf einem Globus" src="img/Tissot_world_from_space.png" width="400"/>
+
+Tissotsche Indikatrix auf einem Globus
 
 #### Längentreue Abbildung
 
@@ -144,26 +152,6 @@ Winkel-Tripel-Projektion
 <img alt="Tissotsche Indikatrix der Winkel-Tripel-Projektion" src="img/Tissot_indicatrix_world_map_Winkel_Tripel_proj.png" width="500"/>
 
 Verzerrungen der Winkel-Tripel-Projektion verdeutlicht mit der Tissotschen Indikatrix
-
-
-#### [Tissotsche Indikatrix](https://de.wikipedia.org/wiki/Tissotsche_Indikatrix)
-
-> Als tissotsche Indikatrix bezeichnet man Verzerrungsellipsen, mit deren Hilfe Kartennetzentwürfe auf ihre Verzerrungseigenschaften hin überprüft werden können.
-> - Bei *winkeltreuen* Entwürfen sind alle Verzerrungsellipsen *Kreise*.
-> - Bei *flächentreuen* Entwürfen haben alle Verzerrungsellipsen die *gleiche Flächengröße*.
-> - Bei *längentreuen* Entwürfen haben die Verzerrungsellipsen in Richtung der Längentreue *gleich große Radien*. Meist sind Karten nur entlang der Breitenkreise oder Meridiane längentreu.
-
-<img alt="Tissotsche Indikatrix auf einem Globus" src="img/Tissot_world_from_space.png" width="400"/>
-
-Tissotsche Indikatrix auf einem Globus
-
-<img alt="Tissotsche Indikatrix der Winkel-Tripel-Projektion" src="img/Tissot_indicatrix_world_map_Winkel_Tripel_proj.png" width="400"/>
-
-Winkel-Tripel-Projektion
-
-<img alt="Tissotsche Indikatrix; Merkator-Projektion" src="img/Tissot_mercator.png" width="400"/>
-
-Merkator-Projektion
 
 <img alt="Behrmanns flächentreuer Schnittzylinderentwurf" src="img/Tissot_behrmann.png" width="400"/>
 
