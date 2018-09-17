@@ -98,23 +98,23 @@ Dienst:
 
   - engl. geographic information system
 
-> A geographic information system (GIS) is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data. [...]
+> A geographic information system (GIS) is a system designed to **capture**, **store**, **manipulate**, **analyze**, **manage**, and **present** spatial or geographic data. [...]
 
 > In general, the term describes any information system that integrates, stores, edits, analyzes, shares, and displays geographic information. GIS applications are tools that allow users to create interactive queries (user-created searches), analyze spatial information, edit data in maps, and present the results of all these operations.
 
 [Wikipedia EN "Geographic information system"](https://en.wikipedia.org/w/index.php?title=Geographic_information_system&oldid=800775304 "Wikipedia EN GIS")
 
-> Geoinformationssysteme, Geographische Informationssysteme (GIS) oder Räumliche Informationssysteme (RIS) sind Informationssysteme zur Erfassung, Bearbeitung, Organisation, Analyse und Präsentation räumlicher Daten. Geoinformationssysteme umfassen die dazu benötigte Hardware, Software, Daten und Anwendungen.
+> Geoinformationssysteme, Geographische Informationssysteme (GIS) oder Räumliche Informationssysteme (RIS) sind Informationssysteme zur **Erfassung**, **Bearbeitung**, **Organisation**, **Analyse** und **Präsentation** räumlicher Daten. Geoinformationssysteme umfassen die dazu benötigte Hardware, Software, Daten und Anwendungen.
 
 [Wikipedia DE "Geoinformationssystem"](https://de.wikipedia.org/w/index.php?title=Geoinformationssystem&oldid=168115672 "Wikipedia DE GIS")
 
 > A geographic information system (GIS) lets us visualize, question, analyze, and interpret data to understand relationships, patterns, and trends.
 
-> GIS benefits organizations of all sizes and in almost every industry. There is a growing interest in and awareness of the economic and strategic value of GIS.
+> GIS benefits organizations of **all sizes** and in almost **every** industry. There is a growing interest in and awareness of the economic and strategic value of GIS.
 
 [ESRI "What is GIS?"](http://www.esri.com/what-is-gis "ESRI What is GIS?")
 
-> Ein Geo-Informationssystem (GIS) ist ein rechnergestütztes System, das aus Hardware, Software und Daten besteht und mit dem sich raumbezogene Problemstellungen in unterschiedlichsten Anwendungsgebieten modellieren und bearbeiten lassen. Die dafür benötigten raumbezogenen Daten / Informationen können digital erfasst und redigiert, verwaltet und reorganisiert, analysiert sowie alphanumerisch und graphisch präsentiert werden. GIS bezeichnet sowohl eine Technologie, Produkte als auch Vorhaben zur Bereitstellung und Behandlung von Geoinformationen.
+> Ein Geo-Informationssystem (GIS) ist ein **rechnergestütztes System**, das aus Hardware, Software und Daten besteht und mit dem sich raumbezogene Problemstellungen in unterschiedlichsten Anwendungsgebieten modellieren und bearbeiten lassen. Die dafür benötigten raumbezogenen Daten / Informationen können digital erfasst und redigiert, verwaltet und reorganisiert, analysiert sowie alphanumerisch und graphisch präsentiert werden. **GIS bezeichnet sowohl eine Technologie, Produkte als auch Vorhaben zur Bereitstellung und Behandlung von Geoinformationen**.
 
 Bill, Ralf: _Grundlagen der Geo-Informationssysteme_. Wichmann, 5\. Auflage, S. 8
 
@@ -247,7 +247,7 @@ Dienst:
 
 > What does roadkill mean?
 
-> Roadkills are all animals killed on roads. In most countries, official data on roadkills are only available for huntable wildlife. [...] However, there are no data available on the effects of roads on non-huntable wildlife or red list species such as European hedgehog (Erinaceus europaeus) or European green toad (Bufo viridis).
+> Roadkills are all animals killed on roads. In most countries, official data on roadkills are **only** available for huntable wildlife. [...] **However**, there are no data available on the effects of roads on non-huntable wildlife or red list species such as European hedgehog (Erinaceus europaeus) or European green toad (Bufo viridis).
 
 [roadkill.at](http://roadkill.at/en/home-en "roadkill.at")
 
