@@ -30,7 +30,7 @@
 
 # Das Runde muss ins Eckige
 
-- Die Erdkugel auf einem _flachen_ Blatt Papier darzustellen ist schwierig (siehe [02-kartografie][02kat])
+- Die Erdkugel auf einem _flachen_ Blatt Papier darzustellen ist schwierig (siehe 03-kartografie)
 - Projektion von einem [räumlichen Polarkoordinatensystem][rpks] in ein [zweidimensionales kartesisches Koordinatensystem][zdkks]
 
 ![Normale Zylindrische Projektion](img/Cylindrical_Projection_secant.svg)
@@ -165,7 +165,6 @@ Gauß-Krüger Zone 5        | [DHDN]   | [Bessel 1841][bessel] | [31469][gkz5]
 UTM Zone 32               | [WGS84]  | [WGS84]               | [32632][utm32wgs]
 UTM Zone 32               | [ETRS89] | [GRS80]               | [25832][utm32etrs]
 
-[02kat]: ../02-kartografie/README.md "Vorlesung Kartografie"
 [aeq]: https://de.wikipedia.org/wiki/%C3%84quator
 [bessel]: https://de.wikipedia.org/wiki/Bessel-Ellipsoid "Bessel-Ellipsoid"
 [dhdn]: https://de.wikipedia.org/wiki/Deutsches_Hauptdreiecksnetz "Deutsches Hauptdreiecksnetz"
