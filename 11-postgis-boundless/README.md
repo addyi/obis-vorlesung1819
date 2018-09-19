@@ -23,6 +23,12 @@ Port           | 5432
 Datenbank      | nyc_data
 Shapefile SRID | 26918
 
+**Shell Zugriff auf Docker Container**
+
+```sh
+docker exec -it "id of running container" bash
+```
+
 **Variante 1**
 
 Anleitung für Import mit QGIS: <http://blauorange.com/postgis-shapefile-import/>
@@ -33,7 +39,7 @@ Anleitung für `shp2pgsql`:
 
 `man` für `shp2pgsql` mit Beispielen: <http://www.bostongis.com/pgsql2shp_shp2pgsql_quickguide.bqg>
 
-Geht per ssh auf den Server und ladet euch die Daten runterladen
+Geht per ssh auf den Server oder Docker Container und ladet euch die Daten runterladen
 
 ```sh
 wget http://files.boundlessgeo.com/workshopmaterials/postgis-workshop-201401.zip
