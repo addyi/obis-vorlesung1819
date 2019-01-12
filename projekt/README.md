@@ -9,7 +9,7 @@
 
 ## Projektpräsentation
 
-- 45+ Minuten Vortrag
+- 30 Minuten Vortrag
 
   - Jeder übernimmt einen Teil der Präsentation
 
